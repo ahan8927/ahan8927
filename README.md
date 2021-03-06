@@ -50,6 +50,8 @@
 
 [![Aaron Hanson's github stats](https://github-readme-stats.vercel.app/api?username=ahan8927&hide=stars&theme=calm)](https://github.com/anuraghazra/github-readme-stats)
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahan8927&label=Profile%20views&color=0e75b6&style=flat" alt="ahan8927" /> </p>
+
 If you enjoy what I make, pls buy me coffee. College kids will understand 😔
 
 <a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150"></a>
