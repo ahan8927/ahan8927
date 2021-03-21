@@ -7,8 +7,8 @@
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true"  height="300" />
 
-- 🔭 Currently working on a beat / melody making web application.
-- 🌱 Currently a student at AppAcademy
+- 🔭 Currently working on a user proficiency / testing application.
+- 🌱 Currently looking for employment opportunities. 
 - 👯 
 - 🥅 2021 Goals: Finish a machine learning algo course and make my own proj.
 - ⚡ Fun fact: I use a spoon to spread my pb and jelly on my sandwhiches.
