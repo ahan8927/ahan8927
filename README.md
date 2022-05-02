@@ -15,7 +15,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="ahan8927 Spotify Playing" width="350" />](https://open.spotify.com/user/ablindoldman)
+[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=ablindoldman&count=3)](https://open.spotify.com/user/ablindoldman)
 
 ---
 
