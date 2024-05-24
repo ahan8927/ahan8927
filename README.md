@@ -48,9 +48,9 @@ Here is a convenient link to my portfolio website. https://ahan8927.github.io/Po
 
 📈 My GitHub Stats
 
-[![Aaron Hanson's github stats](https://github-readme-stats.vercel.app/api?username=ahan8927&hide=stars&theme=calm)](https://github.com/anuraghazra/github-readme-stats)
+<!--  [![Aaron Hanson's github stats](https://github-readme-stats.vercel.app/api?username=ahan8927&hide=stars&theme=calm)](https://github.com/anuraghazra/github-readme-stats)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahan8927&label=Profile%20views&color=0e75b6&style=flat" alt="ahan8927" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahan8927&label=Profile%20views&color=0e75b6&style=flat" alt="ahan8927" /> </p> -->
 
 If you enjoy what I make, pls buy me coffee. College kids will understand 😔
 
