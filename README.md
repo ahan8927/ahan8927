@@ -7,10 +7,9 @@
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true"  height="300" />
 
-- 🔭 Currently Learning new Tech! (MongoDB, Golang, NextJs, TypeScript, GraphQL, Serverless Frontends, AWS)
+- 🔭 Currently Learning new Tech! AWS
 - 🌱 Currently looking for employment opportunities. 
 <!-- - 👯  -->
-- 🥅 2021 Goals: Learn and make a project using the languages im learning now.
 - ⚡ Fun fact: I am a masterclass Satisfactory and Factorio player.
 
 ### Spotify Playing 🎧
